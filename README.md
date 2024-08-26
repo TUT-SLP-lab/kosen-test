@@ -1,4 +1,9 @@
 # kosen-test
+テストデータ(input.txt)は後日公開
+
+## 使い方
+1. test.pyを置き換える
+1. main.pyを実行
 
 ## フォルダ構成
 - out
@@ -20,7 +25,6 @@
     def test(input_text:str) -> str:
         return "Hello, " + input_text 
     ```
-
 
 ## 問題
 - encoding: utf-8
