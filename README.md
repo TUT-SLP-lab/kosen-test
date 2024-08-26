@@ -14,18 +14,17 @@
 - test.py
 
 ## test.py
-- インターフェース
 - test関数
-- input
-    - input_text:str 問題文
-- output
-    - str 回答
-- 例
-    ```python
-    def test(input_text:str) -> str:
-        return "Hello, " + input_text 
-    ```
-
+    - input
+        - input_text:str 問題文
+    - output
+        - str 回答
+    - 例
+        ```python
+        def test(input_text:str) -> str:
+            return "Hello, " + input_text 
+        ```
+    
 ## 問題
 - encoding: utf-8
 - 英数字記号: 半角
