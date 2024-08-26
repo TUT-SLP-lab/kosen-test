@@ -6,7 +6,7 @@ def main():
             in_txt = line.strip()
             out_txt = test(in_txt)
 
-            with open(f"test/output_{i}.txt", "a", encoding="utf-8") as f:
+            with open(f"out/output_{i}.txt", "a", encoding="utf-8") as f:
                 f.write(in_txt + "\n\n")
                 f.write(out_txt + "\n")
 
