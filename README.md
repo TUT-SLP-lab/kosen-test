@@ -1,6 +1,4 @@
 # kosen-test
-テストデータ(input.txt)は後日公開
-
 ## 使い方
 1. test.pyを置き換える
 1. main.pyを実行
