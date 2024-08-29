@@ -1,0 +1,160 @@
+Response 1: 「
+
+Response 2: s
+
+Response 3: i
+
+Response 4: n
+
+Response 5: (
+
+Response 6: x
+
+Response 7: +
+
+Response 8: t
+
+Response 9: )
+
+Response 10:  
+
+Response 11: の
+
+Response 12: ラ
+
+Response 13: プ
+
+Response 14: ラ
+
+Response 15: ス
+
+Response 16: 変
+
+Response 17: 換
+
+Response 18: は
+
+Response 19: 、
+
+Response 20: x
+
+Response 21:  
+
+Response 22: に
+
+Response 23: 関
+
+Response 24: し
+
+Response 25: て
+
+Response 26:  
+
+Response 27: (
+
+Response 28: p
+
+Response 29:  
+
+Response 30: s
+
+Response 31: i
+
+Response 32: n
+
+Response 33: (
+
+Response 34: t
+
+Response 35: )
+
+Response 36:  
+
+Response 37: +
+
+Response 38:  
+
+Response 39: c
+
+Response 40: o
+
+Response 41: s
+
+Response 42: (
+
+Response 43: t
+
+Response 44: )
+
+Response 45: )
+
+Response 46: /
+
+Response 47: (
+
+Response 48: p
+
+Response 49: ^
+
+Response 50: 2
+
+Response 51:  
+
+Response 52: +
+
+Response 53:  
+
+Response 54: 1
+
+Response 55: )
+
+Response 56:  
+
+Response 57: で
+
+Response 58: す
+
+Response 59: 。
+
+Response 60: 他
+
+Response 61: に
+
+Response 62: 何
+
+Response 63: か
+
+Response 64: お
+
+Response 65: 手
+
+Response 66: 伝
+
+Response 67: い
+
+Response 68: で
+
+Response 69: き
+
+Response 70: る
+
+Response 71: こ
+
+Response 72: と
+
+Response 73: は
+
+Response 74: あ
+
+Response 75: り
+
+Response 76: ま
+
+Response 77: す
+
+Response 78: か
+
+Response 79: ？
+
+Response 80: 」
+
