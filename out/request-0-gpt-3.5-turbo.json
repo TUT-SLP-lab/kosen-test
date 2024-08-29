@@ -1,5 +1,0 @@
-{
-  "model": "gpt-3.5-turbo",
-  "output": "```c\n#include <stdio.h>\n\nint binarySearch(int arr[], int left, int right, int key) {\n    while (left <= right) {\n        int mid = left + (right - left) / 2;\n\n        if (arr[mid] == key) {\n            return mid;\n        }\n\n        if (arr[mid] < key) {\n            left = mid + 1;\n        } else {\n            right = mid - 1;\n        }\n    }\n\n    return -1;\n}\n\nint main() {\n    int N, B;\n    scanf(\"%d\", &N);\n\n    int A[N];\n    for (int i = 0; i < N; i++) {\n        scanf(\"%d\", &A[i]);\n    }\n\n    scanf(\"%d\", &B);\n\n    int result = binarySearch(A, 0, N - 1, B);\n    printf(\"%d\", result);\n\n    return 0;\n}\n```",
-  "input": "二分探索のプログラムをC言語で書いてください。標準入力からソート済みの配列Aの長さNと要素A_1...A_N、探索する値Bが与えられます。BがAに存在する場合はインデックス、存在しない場合は-1を標準出力に出力してください。回答以外は標準出力には出力してはいけません。"
-}

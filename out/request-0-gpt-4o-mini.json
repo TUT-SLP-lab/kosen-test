@@ -1,5 +1,0 @@
-{
-  "model": "gpt-4o-mini",
-  "output": "```c\n#include <stdio.h>\n\nint binary_search(int A[], int N, int B) {\n    int left = 0;\n    int right = N - 1;\n\n    while (left <= right) {\n        int mid = left + (right - left) / 2;\n        if (A[mid] == B) {\n            return mid;\n        } else if (A[mid] < B) {\n            left = mid + 1;\n        } else {\n            right = mid - 1;\n        }\n    }\n\n    return -1;\n}\n\nint main() {\n    int N, B;\n    scanf(\"%d\", &N);\n    int A[N];\n\n    for (int i = 0; i < N; i++) {\n        scanf(\"%d\", &A[i]);\n    }\n    scanf(\"%d\", &B);\n\n    int result = binary_search(A, N, B);\n    printf(\"%d\\n\", result);\n\n    return 0;\n}\n```",
-  "input": "二分探索のプログラムをC言語で書いてください。標準入力からソート済みの配列Aの長さNと要素A_1...A_N、探索する値Bが与えられます。BがAに存在する場合はインデックス、存在しない場合は-1を標準出力に出力してください。回答以外は標準出力には出力してはいけません。"
-}
